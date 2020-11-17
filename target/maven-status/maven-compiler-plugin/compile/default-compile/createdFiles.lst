@@ -1,0 +1,6 @@
+com\ma\controller\CreditCardController.class
+CardApplication.class
+com\ma\rest\CreditCardResource.class
+com\ma\model\CreditCard.class
+com\ma\repository\CreditCardRepository.class
+com\ma\dao\CreditCardDAO.class
